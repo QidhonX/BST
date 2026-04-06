@@ -1,0 +1,35 @@
+Prompt 1: 
+
+Buat program (Java & Python) menggunakan struktur data BST dengan fitur program terdiri dari: tambah data, cari data, hapus data, dan traversal (inorder, preorder, postorder).
+
+Prompt 2 :
+
+coba kalau kita memasukkan datanya sendiri
+
+Prompt 3 :
+
+Fitur di dalam Program tersebut Terdiri dari Tambah data, cari data, hapus data, dan traversal (inorder, preorder, postorder) tidak ada yang berkurang
+
+Prompt 4 :
+
+Tambahkan Fitur Pengulangan Juga terhadap Tambah Datanya, misal Setelah menambah data, akan muncul pertanyaan, apakah anda ingin menambahkan lagi, jika "ya" maka tambah data atau loop, jika tidak maka selesai sudah
+
+Prompt 5 :
+
+tambahkan Juga untuk Data yang di inputkan bukan cuma angka, tetapi barang Untuk Fitur Cari, Setelah data yang di inputkan itu angka dan barang, Setelah angka di inputkan ke dalam Fitur Cari data Maka Akan Memunculkan Apa Barang yang terhubung oleh angka tersebut
+
+Prompt 6 :
+bukan gitu maksudnya, Tetep kaya yang tadi cuman, Tambah datanya itu sekalian Angka dan barangnya bukan di pisah pisah gitu
+
+Prompt 7 :
+Kalau Misal kita Nge-Load Sebuah File kedalam kode tersebut bisa gak, misal Memasukkan Data -data file excel ini (menambahkan fitu Load from CSV)
+
+Prompt 8 :
+tetapi di komputerku pakainya ;(titik koma) bukan ,(koma)
+
+Prompt 9 :
+tetapi kalau misal traversal kaya gini susah di baca gak si, coba di buat agar gampang di baca
+
+Prompt 10 :
+preorder dan postordernya di buat pilihan terpisah aja, tetapi tampilannya sama kaya yang inorder
+
